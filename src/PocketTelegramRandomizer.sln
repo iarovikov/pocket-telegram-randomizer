@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot", "TelegramBot\TelegramBot.csproj", "{E5A0745D-E03D-4ED1-9AE4-97118B52C355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{0CBD4E3A-B050-4808-B438-412D9D415AB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot.Test", "TelegramBot.Test\TelegramBot.Test.csproj", "{99EEDE5A-30C8-49B5-B29B-5020FF4CBC96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5A0745D-E03D-4ED1-9AE4-97118B52C355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A0745D-E03D-4ED1-9AE4-97118B52C355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A0745D-E03D-4ED1-9AE4-97118B52C355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A0745D-E03D-4ED1-9AE4-97118B52C355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CBD4E3A-B050-4808-B438-412D9D415AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CBD4E3A-B050-4808-B438-412D9D415AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CBD4E3A-B050-4808-B438-412D9D415AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CBD4E3A-B050-4808-B438-412D9D415AB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99EEDE5A-30C8-49B5-B29B-5020FF4CBC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99EEDE5A-30C8-49B5-B29B-5020FF4CBC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99EEDE5A-30C8-49B5-B29B-5020FF4CBC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99EEDE5A-30C8-49B5-B29B-5020FF4CBC96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
